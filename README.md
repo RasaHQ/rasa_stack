@@ -1,23 +1,7 @@
-# Rasa Stack
-[![Join the forum at https://forum.rasa.com](https://img.shields.io/badge/forum-join%20discussions-brightgreen.svg)](https://forum.rasa.com/?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![PyPI version](https://badge.fury.io/py/rasa.svg)](https://badge.fury.io/py/rasa)
+❗️The code has moved and is now part of the `rasa_core` repository at https://github.com/RasaHQ/rasa_core ❗️
 
-Rasa Stack is a PyPI package which includes both, [Rasa Core](https://github.com/rasahq/rasa_core) and [Rasa NLU](https://github.com/rasahq/rasa_nlu).
+If you have been using the commandline API, you should install the updated version `pip install -U rasa==0.14.0a4` published from the `rasa_core` repository.
 
-- **What does Rasa Stack do? 🤔**
-  [Read About the Rasa Stack](https://rasa.com/products/rasa-stack/)
-- **I'd like to read the detailed docs 🤓**
-  [Read The Docs](https://rasa.com/docs)
-- **I have a question ❓**
-  [Rasa Community Forum](https://forum.rasa.com)
-- **I would like to contribute 🤗**
-  [How to contribute](#how-to-contribute)
-  
-### How to contribute
-We are very happy to receive and merge your contributions. There is
-some more information about how to do so in the
-[documentation](https://rasa.com/docs/getting-started/contributing/).
-  
 ## License
 Licensed under the Apache License, Version 2.0. Copyright 2018 Rasa Technologies GmbH. [Copy of the license](LICENSE.txt).
 
